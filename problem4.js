@@ -1,17 +1,4 @@
 
-// function findAdress(obj){
-// let t;
-// for(let i =0; i < obj.length; i++){
-// const v = obj[i]
-// t.push(v)
-// }
-// return t
-// }
-
-// let address = {street:10, house:"15A",society:"Earth Perfect"}
- 
-// console.log(findAdress(address))
-
 
 function findAddress(address) {
     let formatted = '';
